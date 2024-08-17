@@ -1,1 +1,2 @@
-python-3.12.4
+tkinter==8.6
+time==3.12.4
